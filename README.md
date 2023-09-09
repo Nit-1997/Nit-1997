@@ -16,9 +16,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nit-1997&show_icons=true&locale=en&layout=compact" alt="nit-1997" /></p>
-<p>
+
   [![linkedin](https://linkedin-github-readme.onrender.com/api/render/Nitin%20Bhat/Attending%20GHC%202023%20|%20Actively%20seeking%20spring%2024%20Coop%20and%20Fulltime%20roles%20starting%20May%202024%20l%20MS%20CS@%20Northeastern%20University%20l%20ex-%20Software%20Engineer%202@Cisco%20|%20Kubernetes%20|%20Golang%20|%20Java%20|%20Cloud%20Observability/Software%20Engineering%20Intern/Masters%20In%20Science/dark/https%3A%2F%2Fnitinbhat.info%2Fassets%2Fnitin-a880e324.png
 )](https://www.linkedin.com/in/nit-1997/)
-</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nit-1997&show_icons=true&locale=en" alt="nit-1997" /></p>
 
