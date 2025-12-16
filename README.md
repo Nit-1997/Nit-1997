@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Bhat</h1>
-<h3 align="center">A Software Engineer from Boston , MA</h3>
+<h3 align="center">A Software Engineer from Sunnyvale , CA</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nit-1997&label=Profile%20views&color=0e75b6&style=flat" alt="nit-1997" /> </p>
